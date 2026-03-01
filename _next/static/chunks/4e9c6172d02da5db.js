@@ -11,7 +11,7 @@ Project overview
 `,r=`
 This is a project I made during my 2nd year of uni. You can find it in the iOS app store right now. It is a blend between a simulator and a game for day trading where the main mechanism is deciding on trades by swiping meant to train your gut instinct.
 This essentially tries to replace your doomscrolling time with something a tiny bit less dystopian (though not by much).
-It was released on the app store on December 28th 2025.
+It was released on the app store on December 28, 2025.
 `,n=`
 Some numbers
 ============
