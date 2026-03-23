@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 f:"$Sreact.suspense"
-2:T8bb,
+2:T911,
 ┬ ┬┌─┐┬  ┌─┐┌─┐┌┬┐┌─┐  ┌┬┐┌─┐   
 │││├┤ │  │  │ ││││├┤    │ │ │   
 └┴┘└─┘┴─┘└─┘└─┘┴ ┴└─┘   ┴ └─┘ooo
@@ -40,19 +40,19 @@ Y88b  d88P 888     888 888  888 d8b d8b d8b
                          Y8b d88P            
                           "Y88P"             
                           
-┬ ┬┬  ┌┬┐┌─┐┌─┐┬ ┬       
-├─┤│───│ ├┤ │  ├─┤       
-┴ ┴┴   ┴ └─┘└─┘┴ ┴       
-┬ ┬┌─┐┌┐    ┌─┐┬┌┬┐┌─┐┬┬┬
-│││├┤ ├┴┐───└─┐│ │ ├┤ │││
-└┴┘└─┘└─┘   └─┘┴ ┴ └─┘ooo
+╦ ╦╔═╗╦  ╔═╗  ╔═╗╔═╗╔═╗╔═╗╔╦╗
+╠═╣╠═╣║  ╠╣───╠═╣╚═╗╚═╗║╣  ║║
+╩ ╩╩ ╩╩═╝╚    ╩ ╩╚═╝╚═╝╚═╝═╩╝
+╦ ╦╔═╗╔╗    ╔═╗╦╔╦╗╔═╗  ┬┬┬  
+║║║║╣ ╠╩╗───╚═╗║ ║ ║╣   │││  
+╚╩╝╚═╝╚═╝   ╚═╝╩ ╩ ╚═╝  ooo  
 
 I am a 2nd year student of Mechanical Engineering at the University of Twente.
 
 My latest projects are:
 
 
-0:{"buildId":"k9jwiJreUG2FBLWzgdWmC","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"2rem","fontFamily":"sans-serif"},"children":["$","div",null,{"style":{"display":"flex","justifyContent":"center","margin":"2rem 0"},"children":[["$","style",null,{"children":"\n        /* Standard inline links */\n        .inline-link {\n          color: inherit;\n          text-decoration: underline;\n          text-underline-offset: 2px;\n        }\n\n        /* Massive ASCII contact link */\n        .contact-link {\n          color: inherit;\n          text-decoration: none;\n          display: inline-block;\n        }\n\n        /* A subtle, light highlight effect for both */\n        .inline-link:hover, .contact-link:hover {\n          background-color: rgba(128, 128, 128, 0.2); /* Semi-transparent grey highlight */\n          text-decoration: none;\n          border-radius: 2px; /* Optional: gives the highlight slightly softer edges */\n        }\n\n        /* Static headline links (no hover state at all) */\n        .headline-link {\n          color: inherit;\n          text-decoration: none;\n        }\n      "}],["$","pre",null,{"style":{"fontSize":"0.75rem","lineHeight":"1"},"children":["$2",["$","a",null,{"href":"/ygbike","className":"contact-link","children":"      ▛▀▖▗ ▌     \n▌ ▌▞▀▌▙▄▘▄ ▌▗▘▞▀▖\n▚▄▌▚▄▌▌ ▌▐ ▛▚ ▛▀ \n▗▄▘▗▄▘▀▀ ▀▘▘ ▘▝▀▘"}],"\n\nI am building a bicycle that balances itself\nusing a reaction wheel and documenting it ",["$","a",null,{"href":"/ygbike","className":"inline-link","children":"here"}],".\n\n\n\n","$L3","\n\nI made an iOS trading simulator.\nCheck it out on the ","$L4",", ","$L5"," or learn more ","$L6",".\n\n\n\n","$L7","\n\nMy part in a uni project. Learn more ","$L8",".\n\n\n\n","$L9","\n\nI made a Firefox extension to solve a personal pet peeve.\nLearn more ","$La"," or check it out on ","$Lb",".\n\n\n","$Lc"]}]]}]}],null,"$Ld"]}],"loading":null,"isPartial":false}
+0:{"buildId":"Yq8zEdpNdt9W_Rn1uuOZ6","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"2rem","fontFamily":"sans-serif"},"children":["$","div",null,{"style":{"display":"flex","justifyContent":"center","margin":"2rem 0"},"children":[["$","style",null,{"children":"\n        /* Standard inline links */\n        .inline-link {\n          color: inherit;\n          text-decoration: underline;\n          text-underline-offset: 2px;\n        }\n\n        /* Massive ASCII contact link */\n        .contact-link {\n          color: inherit;\n          text-decoration: none;\n          display: inline-block;\n        }\n\n        /* A subtle, light highlight effect for both */\n        .inline-link:hover, .contact-link:hover {\n          background-color: rgba(128, 128, 128, 0.2); /* Semi-transparent grey highlight */\n          text-decoration: none;\n          border-radius: 2px; /* Optional: gives the highlight slightly softer edges */\n        }\n\n        /* Static headline links (no hover state at all) */\n        .headline-link {\n          color: inherit;\n          text-decoration: none;\n        }\n      "}],["$","pre",null,{"style":{"fontSize":"0.75rem","lineHeight":"1"},"children":["$2",["$","a",null,{"href":"/ygbike","className":"contact-link","children":"      ▛▀▖▗ ▌     \n▌ ▌▞▀▌▙▄▘▄ ▌▗▘▞▀▖\n▚▄▌▚▄▌▌ ▌▐ ▛▚ ▛▀ \n▗▄▘▗▄▘▀▀ ▀▘▘ ▘▝▀▘"}],"\n\nI am building a bicycle that balances itself\nusing a reaction wheel and documenting it ",["$","a",null,{"href":"/ygbike","className":"inline-link","children":"here"}],".\n\n\n\n","$L3","\n\nI made an iOS trading simulator.\nCheck it out on the ","$L4",", ","$L5"," or learn more ","$L6",".\n\n\n\n","$L7","\n\nMy part in a uni project. Learn more ","$L8",".\n\n\n\n","$L9","\n\nI made a Firefox extension to solve a personal pet peeve.\nLearn more ","$La"," or check it out on ","$Lb",".\n\n\n","$Lc"]}]]}]}],null,"$Ld"]}],"loading":null,"isPartial":false}
 3:["$","a",null,{"href":"/scrollstreet","className":"contact-link","children":"▞▀▖         ▜▜ ▞▀▖▐           ▐  \n▚▄ ▞▀▖▙▀▖▞▀▖▐▐ ▚▄ ▜▀ ▙▀▖▞▀▖▞▀▖▜▀ \n▖ ▌▌ ▖▌  ▌ ▌▐▐ ▖ ▌▐ ▖▌  ▛▀ ▛▀ ▐ ▖\n▝▀ ▝▀ ▘  ▝▀  ▘▘▝▀  ▀ ▘  ▝▀▘▝▀▘ ▀ "}]
 4:["$","a",null,{"href":"https://apps.apple.com/nl/app/scrollstreet-trading-simulator/id6755594467","target":"_blank","rel":"noopener noreferrer","className":"inline-link","children":"App Store"}]
 5:["$","a",null,{"href":"https://scrollstreet.app","target":"_blank","rel":"noopener noreferrer","className":"inline-link","children":"scrollstreet.app"}]
