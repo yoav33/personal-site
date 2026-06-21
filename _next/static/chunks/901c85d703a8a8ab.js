@@ -1,4 +1,4 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,33525,(e,t,o)=>{"use strict";Object.defineProperty(o,"__esModule",{value:!0}),Object.defineProperty(o,"warnOnce",{enumerable:!0,get:function(){return i}});let i=e=>{}},65509,e=>{"use strict";var t=e.i(43476);e.i(71645),e.i(45508);var o=e.i(22016);function i(){let e=`INTRO
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,51282,(e,t,o)=>{"use strict";Object.defineProperty(o,"__esModule",{value:!0}),Object.defineProperty(o,"warnOnce",{enumerable:!0,get:function(){return i}});let i=e=>{}},77373,e=>{"use strict";var t=e.i(49828);e.i(97402),e.i(90700);var o=e.i(5399);function i(){let e=`INTRO
 =====
 
 Welcome to Raindrop2!
